@@ -182,3 +182,112 @@ function guiThongTin() {
 
 </body>
 </html>
+<html>
+<head>
+<title>Khóa học</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container mt-5">
+<h2>Danh sách khóa học</h2>
+
+<table class="table table-bordered">
+
+<tr>
+<th>Khóa học</th>
+<th>Thời gian</th>
+<th>Học phí</th>
+</tr>
+
+<tr>
+<td>B1</td>
+<td>3 tháng</td>
+<td>8.000.000</td>
+</tr>
+
+<tr>
+<td>B2</td>
+<td>3 tháng</td>
+<td>9.000.000</td>
+</tr>
+
+<tr>
+<td>C</td>
+<td>5 tháng</td>
+<td>12.000.000</td>
+</tr>
+
+</table>
+
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<title>Lịch khai giảng</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container mt-5">
+<h2>Lịch khai giảng</h2>
+
+<table class="table table-striped">
+<tr>
+<th>Khóa</th>
+<th>Ngày khai giảng</th>
+<th>Ghi chú</th>
+</tr>
+
+<tr>
+<td>B2</td>
+<td>10/05/2026</td>
+<td>Còn chỗ</td>
+</tr>
+
+<tr>
+<td>C</td>
+<td>20/05/2026</td>
+<td>Còn chỗ</td>
+</tr>
+
+</table>
+
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<title>Kết quả thi</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container mt-5">
+<h2>Kết quả thi</h2>
+
+<table class="table table-bordered">
+<tr>
+<th>Họ tên</th>
+<th>Khóa</th>
+<th>Kết quả</th>
+</tr>
+
+<tr>
+<td>Nguyễn Văn A</td>
+<td>B2</td>
+<td>Đậu</td>
+</tr>
+
+</table>
+
+</div>
+
+</body>
+</html>
